@@ -33,3 +33,6 @@ print("Hello FISA!")
 |이정환|26|
 ---
 [네이버 링크](https://www.naver.com)
+
+[사진에 대한 링크 생성해주는 사이트](https://imgur.com/)
+![멍멍이 사진](https://i.imgur.com/O80RlyJ_d.webp?maxwidth=520&shape=thumb&fidelity=high)
